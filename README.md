@@ -6,4 +6,4 @@
   <li>CSS</li>
   <li>JAVASCRIPT</li>
 </ul>
-<img src="estudo/3.jpg" alt="HTML e Web Design" >
+<img src="estudo/3.jpg" alt="HTML e Web Design" widht="100" >
