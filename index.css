@@ -68,7 +68,7 @@ body {
 
 /* Seção Sobre */
 .about-section-s {
-  padding: 15rem;
+  padding: 2rem;
   background-color: #e8e8e8;
   text-align: center;
 }
@@ -80,7 +80,7 @@ body {
 
 .about-section h2 {
   font-size: 1.8rem;
-  margin-bottom: 1rem;
+  margin-bottom: 5rem;
 }
 
 .about-section ul {
