@@ -79,15 +79,15 @@ body {
 }
 
 .about-section h2 {
-  font-size: 1.8rem;
-  margin-bottom: 5rem;
+  font-size: 2rem;
+  margin-bottom: 50rem;
 }
 
 .about-section ul {
   list-style-type: disc;
   list-style-position: outside;
   margin: 0 auto;
-  padding-left: 2rem;
+  padding-left: 0rem;
   text-align: left;
   display: inline-block;
 }
