@@ -68,7 +68,12 @@ body {
 
 /* Seção Sobre */
 .about-section {
-  padding: 2rem;
+  padding: 15rem;
+  background-color: #e8e8e8;
+  text-align: center;
+}
+.about-section {
+  padding: 15rem;
   background-color: #e8e8e8;
   text-align: center;
 }
@@ -82,7 +87,7 @@ body {
   list-style-type: disc;
   list-style-position: outside;
   margin: 0 auto;
-  padding-left: 10rem;
+  padding-left: 2rem;
   text-align: left;
   display: inline-block;
 }
