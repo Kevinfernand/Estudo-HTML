@@ -1,34 +1,26 @@
-/* Reset Geral */
-* {
+*{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
-
 body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
   color: #333;
   background-color: #f4f4f4;
 }
-
-/* Cabeçalho */
 .header {
   text-align: center;
   background-color: #2a2a2a;
   color: white;
   padding: 1.5rem;
 }
-
 .header h1 {
   font-size: 2.5rem;
 }
-
 .header p {
   font-size: 1.2rem;
 }
-
-/* Seção Hero */
 .hero {
   text-align: center;
   padding: 2rem;
@@ -61,12 +53,9 @@ body {
   border-radius: 5px;
   cursor: pointer;
 }
-
 .hero button:hover {
   background-color: #0056b3;
 }
-
-/* Seção Sobre */
 .about-section-s {
   padding: 2rem;
   background-color: #e8e8e8;
@@ -77,12 +66,10 @@ body {
   background-color: #e8e8e8;
   text-align: center;
 }
-
 .about-section h2 {
   font-size: 2rem;
   margin-bottom: 0rem;
 }
-
 .about-section ul {
   list-style-type: disc;
   list-style-position: outside;
@@ -92,7 +79,6 @@ body {
   display: inline-block;
 }
 
-/* Rodapé */
 .footer {
   text-align: center;
   padding: 1.5rem;
