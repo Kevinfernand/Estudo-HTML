@@ -26,24 +26,20 @@ body {
   padding: 2rem;
   background-color: #fff;
 }
-
 .hero img {
   max-width: 50%;
   height: auto;
   border-radius: 8px;
   margin-bottom: 1rem;
 }
-
 .hero h2 {
   font-size: 2rem;
   margin: 1rem 0;
 }
-
 .hero p {
   font-size: 1.2rem;
   margin-bottom: 1.5rem;
 }
-
 .hero button {
   padding: 0.75rem 1.5rem;
   font-size: 1rem;
@@ -78,7 +74,6 @@ body {
   text-align: left;
   display: inline-block;
 }
-
 .footer {
   text-align: center;
   padding: 1.5rem;
